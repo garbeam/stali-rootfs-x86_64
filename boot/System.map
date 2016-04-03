@@ -27174,7 +27174,7 @@ ffffffff8157f728 T __initramfs_start
 ffffffff8157f728 t __irf_start
 ffffffff8157f728 T __security_initcall_end
 ffffffff8157f728 T __security_initcall_start
-ffffffff8157f7ae t __irf_end
+ffffffff8157f7ad t __irf_end
 ffffffff8157f7b0 T __initramfs_size
 ffffffff8157f7b8 r __cpu_dev_intel_cpu_dev
 ffffffff8157f7b8 R __x86_cpu_dev_start
